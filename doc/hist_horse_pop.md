@@ -5,11 +5,12 @@ Historical horse population in Canada
 -   [Data](#data)
 -   [Methods](#methods)
 -   [Results](#results)
+-   [references](#references)
 
 ## Aim
 
 This project explores the historical population of horses in Canada
-between 1906 and 1972 for each Province.
+Weinstock et al. (2005) between 1906 and 1972 for each Province.
 
 ## Data
 
@@ -62,3 +63,18 @@ Table 01. Range of number of horses in each province
 Below we zoom in and look at the province of Alberta:
 
 <img src="hist_horse_pop_files/figure-gfm/plot province-1.png" title="Fig 02.Number of horses per province" alt="Fig 02.Number of horses per province" width="100%" />
+
+# references
+
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-weinstock2005evolution" class="csl-entry">
+
+Weinstock, Jaco, Eske Willerslev, Andrei Sher, Wenfei Tong, Simon YW Ho,
+Dan Rubenstein, John Storer, et al. 2005. “Evolution, Systematics, and
+Phylogeography of Pleistocene Horses in the New World: A Molecular
+Perspective.” *PLoS Biology* 3 (8): e241.
+
+</div>
+
+</div>
